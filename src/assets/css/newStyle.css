@@ -1,0 +1,20 @@
+.boxItem {
+    margin: 15px;
+    width: 200px;
+    color: #f1f1f1;
+    background-color: #777777;
+    border-radius: 15px;
+}
+
+.footerDiv {
+    background: rgb(188, 141, 243);
+    width: 100%;
+    padding: 40px 0px 0px 0px;
+}
+
+.bottomDiv {
+    background: purple;
+    bottom: 0;
+    font-size: 18px;
+    color: #f1f1f1;
+}
