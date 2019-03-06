@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div className="footerDiv">
       <div className="bottomDiv">
-        Clicky Game! <i class="fas fa-cloud-moon" />
+        Clicky Game! <i className="fas fa-cloud-moon" />
       </div>
     </div>
   );

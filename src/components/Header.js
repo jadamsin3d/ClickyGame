@@ -5,7 +5,7 @@ function Header() {
   return (
     <div style={headerStyle}>
       <h1>The Clicky Game</h1>
-      <h2>Click on an image to earn points, but don't click on any more than once!</h2>
+      <h2>Click on an image to earn points, but don't click on any image more than once!</h2>
     </div>
   );
 }
