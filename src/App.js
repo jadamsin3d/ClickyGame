@@ -10,8 +10,6 @@ function App() {
   return (
     <Router>
       <div>
-        <NavBar />
-        <Header />
         <Route exact path="/" component={Home} />
         <Footer />
       </div>
